@@ -1,12 +1,12 @@
 $(document).ready(function() {
 
     var phrases = [
-        'This is how bubbleText works.',
-        'Animating each letter in a friendly way',
-        'Thanks for seeing it :)',
-        'It really matters to me ...',
+        'Hello everyone.',
+        'I am first year student at IIT Kanpur',
+        'I belong to department of Biological Sciences and Biengineering',
+        'Thanks for visiting my hmepage ...',
         'Regards,',
-        'Guedes, Washington L.',
+        'Aviral Verma',
     ];
     var len = phrases.length;
     var index = 0;
