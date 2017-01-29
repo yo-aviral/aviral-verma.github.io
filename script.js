@@ -2,9 +2,9 @@ $(document).ready(function() {
 
     var phrases = [
         'Hello everyone.',
-        'I am first year student at IIT Kanpur',
-        'I belong to department of Biological Sciences and Biengineering',
-        'Thanks for visiting my hmepage ...',
+        'I am a first year student at IIT Kanpur',
+        'I belong to department of Biological Sciences and Bioengineering',
+        'Thanks for visiting my homepage ...',
         'Regards,',
         'Aviral Verma',
     ];
