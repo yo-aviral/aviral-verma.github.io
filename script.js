@@ -3,8 +3,8 @@ $(document).ready(function() {
     var phrases = [
         'Hello everyone...',
         'I am a first year student at IIT Kanpur',
-        'Thanks for visiting my homepage ...',
-        'Please scroll down to know more',
+        'Thanks for visiting my homepage!!',
+        'Please scroll down to know more...',
         'Regards,',
         'Aviral Verma',
     ];
