@@ -3,7 +3,6 @@ $(document).ready(function() {
     var phrases = [
         'Hello everyone...',
         'I am a first year student at IIT Kanpur',
-        'I belong to department of Biological Sciences and Bioengineering',
         'Thanks for visiting my homepage ...',
         'Please scroll down to know more'
         'Regards,',
