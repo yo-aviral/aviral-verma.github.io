@@ -2,11 +2,10 @@ $(document).ready(function() {
 
     var phrases = [
         'Hello everyone...',
-        'I am a first year student at IIT Kanpur.',
-        'Thanks for visiting my homepage !!',
+        'I am a first year student at IIT Kanpur,',
+        'I belong to department of BSBE.',
         'Please scroll down to know more...',
-        'Regards,',
-        'Aviral Verma',
+        
     ];
     var len = phrases.length;
     var index = 0;
