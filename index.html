@@ -5,6 +5,7 @@
 <meta charset="utf-8">
 <meta name ="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="animate.changethewords.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -183,6 +184,35 @@ $(document).ready(function(){
       <p>Mob: Confidential</p>
       <p>Address: 143, Hall-3, IIT Kanpur, Kanpur, U.P.</p>
   </div>
+    
+    
+    
+    
+     <script src="jquery.changethewords.js"></script>
+  <script type="text/javascript">
+    $(function() {
+      $("#changethewords").changeWords({
+        time: 1500,
+        animate: "tada",
+        selector: "span",
+        repeat: true // false
+      });
+    });
+  </script>
+    
+    
+    <div id="changethewords">I love
+  <span data-id="1">Code</span>
+  <span data-id="2">Spaghetti</span>
+  <span data-id="3">Cats</span>
+  <span data-id="4">Bikes</span>
+  <span data-id="5">People</span>
+  <span data-id="6">Me</span>
+  <span data-id="7">You</span>
+</div>
+    
+    
+    
      <div class="container-fluid bg-5 text-center">
     <h2>Have a glance...</h2>
       <br>
