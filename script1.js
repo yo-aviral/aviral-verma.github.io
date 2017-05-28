@@ -11,7 +11,7 @@ $(document).ready(function() {
     var index = 0;
 
     var ctrl = bubbleText({
-        element: $('#bubble'),
+        element: $('#bubble1'),
         newText: phrases[index++],
         letterSpeed: 70,
         repeat: Infinity,
